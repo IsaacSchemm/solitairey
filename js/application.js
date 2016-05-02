@@ -496,6 +496,14 @@
 					dimensions: [148, 200]
 				}
 			},
+			byron: {
+				sizes: [148],
+				148: {
+					hiddenRankHeight: 26,
+					rankHeight: 56,
+					dimensions: [148, 215]
+				}
+			},
 		},
 
 		current: null,
