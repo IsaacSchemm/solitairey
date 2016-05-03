@@ -512,6 +512,22 @@
 					dimensions: [148, 215]
 				}
 			},
+			kpoker: {
+				sizes: [71],
+				71: {
+					hiddenRankHeight: 30,
+					rankHeight: 30,
+					dimensions: [71, 96]
+				}
+			},
+			kpokerfourcolor: {
+				sizes: [71],
+				71: {
+					hiddenRankHeight: 30,
+					rankHeight: 30,
+					dimensions: [71, 96]
+				}
+			},
 		},
 
 		current: null,

@@ -1,0 +1,2 @@
+These cards are the standard set from kpoker, by way of pysolfc.
+The card designs are licensed GPL 2+.
