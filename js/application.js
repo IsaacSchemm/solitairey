@@ -356,7 +356,7 @@
 
 					createList(Themes, "#graphics-options .cards", function (collection) {
 						return Y.Node.create(Y.Lang.sub(
-							"<li class=card-preview><img src={base}/facedown.png><img src={base}/h12.png></li>", {
+							"<li class=card-preview><img src={base}/facedown.png><img src={base}/d12.png></li>", {
 								base: collection.basePath(90)
 							}));
 					});
